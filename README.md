@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Magdeline!
-- Studing Computer Science at University of Information Technology, VNU-HCM.
-- I'm diving in AI with Computer vision and now I'm learning mulimedia information retrieval.
-- Having knowledge and skill to work with machine learning.
-- Having experience with data mining and application.
+# 👋 Hi, I'm Minh Hoang!
+🎓 Studying Computer Science at the University of Information Technology, VNU-HCM.
+🤖 Passionate about Artificial Intelligence, especially in Computer Vision and Multimedia Information Retrieval.
+🧠 Skilled in Machine Learning, with hands-on experience in Data Mining and real-world applications.
+💻 Actively exploring new challenges and building practical AI solutions.
